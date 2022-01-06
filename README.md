@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns.
 ## Performing analysis on Kickstarter data to uncover trends
 ---
-###  First I analized the best categories from the kickstarter data.
+###  First I analyzed the best categories from the kickstarter data.
 
 ![category](https://github.com/LaszloCravensworth/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 ---
